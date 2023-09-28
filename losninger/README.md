@@ -1,1 +1,1 @@
-# Løsninger til kapittel 1
+# Løsninger til bokas delkapitler og oppgaver
