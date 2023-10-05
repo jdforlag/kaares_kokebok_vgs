@@ -1,3 +1,4 @@
-print("Mount Everest")
-print("er verdens høyeste")
-print("fjell.")
+
+print("Elon Musk")
+print("er")
+print("rik.")
