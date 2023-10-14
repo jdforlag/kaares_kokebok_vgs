@@ -1,5 +1,6 @@
 gjar_1porsjon = 25
 gjar_hjemme = 185
+
 gjar_porsjoner = gjar_hjemme // gjar_1porsjon
 print(f"Gjær gir {gjar_porsjoner} porsjoner.")
 
