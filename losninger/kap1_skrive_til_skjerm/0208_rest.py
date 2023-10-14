@@ -1,4 +1,4 @@
-boller = 4
+boller = 22
 venner = 9
 per_venn = boller // venner
 rest = boller % venner
