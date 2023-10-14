@@ -1,7 +1,0 @@
-verb1 = input("Oppgi et verb i preteritum: ") 
-verb2 = input("Oppgi et verb til i preteritum: ")
-verb3 = input("Oppgi enda et verb i preteritum: ")
-print(f"Jeg {verb1} en tur på stien")
-print(f"og {verb2} skogens ro.")
-print(f"Da {verb3} jeg fra lien")
-print(f"en gjøk som gol koko.")
