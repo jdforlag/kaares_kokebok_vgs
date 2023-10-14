@@ -1,7 +1,7 @@
-sum = 0
+summ = 0
 n = 1
-while sum <= 10000000:
+while summ <= 10000000:
     an = n ** 2 - 3 * n + 2
-    sum += an
+    summ += an
     n += 1
 print(n)

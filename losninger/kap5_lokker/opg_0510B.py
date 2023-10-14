@@ -1,4 +1,4 @@
-sum = 0
+summ = 0
 for tall in [44, 37, 30, 23, 16, 9, 2, -5]:
-    sum += tall
-print(sum)
+    summ += tall
+print(summ)

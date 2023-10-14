@@ -1,6 +1,6 @@
-sum = 0
-term = 100
+summ = 0
+ledd = 100
 for i in range(30):
-    sum += term
-    term /= 2
-print(sum)
+    summ += ledd
+    ledd /= 2
+print(summ)

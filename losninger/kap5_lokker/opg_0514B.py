@@ -1,5 +1,5 @@
-sum = 0
+summ = 0
 for n in range(1, 13):
     an = n ** 2 - 3 * n + 2
-    sum += an
-print(sum)
+    summ += an
+print(summ)
