@@ -11,5 +11,5 @@ while vs < 4:
 print(f"Løsning: x = {x}") 
 
 eksakt_losning = 50 * np.sqrt(2)
-differanse = abs(x - eksakt_losning)
-print("Differansen mellom programløsning og eksakt løsning:", differanse)
+diff = abs(x - eksakt_losning)
+print(f"Differansen er {diff:.3f}")
