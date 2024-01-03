@@ -3,10 +3,10 @@ sum_inntekter = 0
 antall_minst5 = 0
 
 for inntekt in inntekter:
-    if inntekt >= 5:
-        antall_minst5 += 1
     print(f"{inntekt} millioner kr")
-    sum_inntekter += inntekt
-    
-print(sum_inntekter)
+    if inntekt >= 5:
+        sum_inntekter += inntekt
+        antall_minst5 += 1
+        
+print(f"Sum inntekter: {sum_inntekter} millioner kroner.")
 print(f"Det var {antall_minst5} måneder med minst 5 millioner kroner.")
