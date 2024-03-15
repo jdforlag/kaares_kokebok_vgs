@@ -29,7 +29,9 @@ Med bakgrunn i bokas selvinstruerende form, kan du i utgangspunktet be elevene �
 
 ## Implementere programmering i undervisningen
 
-Hvordan implementerer jeg programmering i matematikkundervisningen, og hvordan finner jeg tid til det? 
+Hvordan implementerer jeg programmering i matematikkundervisningen?
+
+Hvordan finner jeg tid til det? 
 
 Begge spørsmålene er høyst aktuelle. Her er noen tips til implementering og tidsbruk:
 
