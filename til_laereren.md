@@ -62,8 +62,10 @@ innlæringsdelene godt kan gis som lekse, slik at programmering ikke spiser for 
 |---------|-----|-----|-----|-----|-----|-----|------|-------|
 | Kapitler | 8 | 8, 9 | 9, 10 | 10, 11 | 11 | 12 | 12 | rep. |
 
-For R1 er ikke kapittel 11 om sannsynlighet relevant. I denne perioden kan R1-klasser bruke tid på referanseprogrammene til R1, og
-tidligere eksamensoppgaver der programmering er involvert.
+For R1 er ikke kapittel 11 om sannsynlighet relevant. I denne perioden kan R1-klasser bruke tid på referanseprogrammene til R1 fra side 319. 
+
+Det er også aktuelt å jobbe med tidligere eksamensoppgaver der programmering er involvert.
+
 Dette finner matematikklærere helt sikkert gode løsninger på.
 
 ### Fremdriftsplan Vg3
@@ -72,7 +74,10 @@ Dette finner matematikklærere helt sikkert gode løsninger på.
 |---------|-----|-----|-----|-----|-----|-----|------|-------|
 | Kapitler | 13 | 13, 14 | 14 | 14, 15 | 15 | 16 | 16 | rep. |
 
-For R2 er ikke kapitlene 15 og 16 om sannsynlighet relevante. I denne perioden kan R2-klasser bruke tid på referanseprogrammene til R2. Enkelte elever kan utfordres med å tegne Riemann-summer med matplotlib. Dette kapitlet finnes blant våre nettressurser på [github.com/jdforlag/kaares_kokebok_vgs](https://github.com/jdforlag/kaares_kokebok_vgs)  i mappen `tillegg`. På samme sted ligger et hefte om symbolske beregninger med sympy: De mest ivrige elevene kan lære seg å bruke sympy for å utføre algebraiske manipulasjoner, regne med symboler, og regne eksakt.
+For R2 er ikke kapitlene 15 og 16 om sannsynlighet relevante. 
+I denne perioden kan R2-klasser bruke tid på referanseprogrammene til R2 på side 325. 
+
+Enkelte elever kan utfordres med å tegne Riemann-summer med matplotlib. Dette kapitlet finnes blant våre nettressurser på [github.com/jdforlag/kaares_kokebok_vgs](https://github.com/jdforlag/kaares_kokebok_vgs)  i mappen `tillegg`. På samme sted ligger et hefte om symbolske beregninger med sympy: De mest ivrige elevene kan lære seg å bruke sympy for å utføre algebraiske manipulasjoner, regne med symboler, og regne eksakt.
 
 ## Nivådifferensiering
 Kaares kokebok er bygget opp for å gjøre nivådifferensiering enkelt. 
