@@ -8,6 +8,7 @@
 1. Be elevene gjøre for eksempel delkapittel 1.4-1.6.
 2. Lærer veileder elevene i gjennomføringen.
 3. Elevene kontrollerer sine programmer ved å sammenligne med læringspartneren eller med gruppa.
+
 Lærer kan også vurdere å gjøre løsninger tilgjengelig, men det er alltid en fare for overdreven bruk av kopiering og liming.
 
 ## Introduksjon
