@@ -1,7 +1,7 @@
 # Til læreren
 
 ## Innhold
-- [Kom i gang på 1-2-3](#komigangpå1-2-3)
+- [Kom i gang på 1-2-3](#kom-i-gang-på-1-2-3)
 - [Introduksjon](#introduksjon)
 
 ## Kom i gang på 1-2-3
