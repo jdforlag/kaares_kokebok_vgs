@@ -24,7 +24,7 @@ Hvordan implementerer jeg programmering i matematikkundervisningen, og hvordan f
 
 Begge spørsmålene er høyst aktuelle. Her er noen tips til implementering og tidsbruk:
 
-- **Variasjon:** Når du merker at elevene har behov for variasjon, for eksempel etter en lengre oppgaveøkt, kan du la elevene programmere 15 til 30 minutter.
+- **Variasjon:** Når du merker at elevene har behov for variasjon, for eksempel etter en lengre oppgaveøkt, kan du la elevene programmere 10 til 30 minutter.
 - **Lekse:** Innlæringsdelen i Kaares kokebok er laget for at flest mulig skal kunne følge den med minimal lærerveiledning. Den egner seg derfor godt som hjemmearbeid.
 - **Tidsbruk:** Et ukentlig tidsbruk på mellom 15 og 30 minutter (inkludert lekser) skal gi god margin til å komme gjennom kapitlene i god tid før standpunkt/eksamen til våren, både for Vg1, Vg2 og Vg3. Vi anbefaler en jevnlig ukentlig dose, framfor sporadiske heldagsøkter.
 - **Nytt stoff:** Når elevene begynner med et nytt kapittel i Kaares kokebok, anbefaler vi at dette skjer i klasserommet. Da får vi muligheter til å rydde opp i typiske feil eller misforståelser tidlig, i stedet for at elevene sitter hjemme og ikke kommer noen vei. Det er opp til læreren om han ønsker å gjennomgå noe felles, eller bare be elevene gjøre for eksempel 2.1-2.3 og deretter gå rundt og hjelpe elevene.
@@ -63,7 +63,17 @@ Dette finner matematikklærere helt sikkert gode løsninger på.
 
 For R2 er ikke kapitlene 15 og 16 om sannsynlighet relevante. I denne perioden kan R2-klasser bruke tid på referanseprogrammene til R2. Enkelte elever kan utfordres med å tegne Riemann-summer med matplotlib. Dette kapitlet finnes blant våre nettressurser på [github.com/jdforlag/kaares_kokebok_vgs](https://github.com/jdforlag/kaares_kokebok_vgs)  i mappen `tillegg`. På samme sted ligger et hefte om symbolske beregninger med sympy: De mest ivrige elevene kan lære seg å bruke sympy for å utføre algebraiske manipulasjoner, regne med symboler, og regne eksakt.
 
-# Nivådifferensiering
+## Nivådifferensiering
+Kaares kokebok er bygget opp for å gjøre nivådifferensiering enkelt. 
+
+Her kommer et konkret eksempel der vi ser på fire ulike kompetansenivåer.
+
+| Kompetansenivå | Aktuelt kapittelinnhold |
+| -------------- | ----------------------- |
+| Lavt           | Det meste av innlæringsdelen og de 2-3 enkleste A-oppgavene. |
+| Middels        | Hele innlæringsdelen, de fleste A-oppgaver og en B-oppgave eller to etter behov. |
+| Høyt           | Hele innlæringsdelen, kan hoppe over A-oppgaver som er for enkle og fokusere på å gjøre B-oppgaver. |
+| Ekstra høyt    | Hele innlæringsdelen, men for mange elever på dette nivået vil det være tilstrekkelig å bla gjennom den. Eleven går snarest mulig i gang med B- og S-oppgaver. |
 
 
 
