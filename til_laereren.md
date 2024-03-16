@@ -35,10 +35,10 @@ Hvordan finner jeg tid til det?
 
 Begge spørsmålene er høyst aktuelle. Her er noen tips til implementering og tidsbruk:
 
-- **Variasjon:** Når du merker at elevene har behov for variasjon, for eksempel etter en lengre oppgaveøkt, kan du la elevene programmere 10 til 30 minutter.
+- **Variasjon:** Når du merker at elevene har behov for variasjon, for eksempel etter en lengre oppgaveøkt, kan du la elevene programmere.
 - **Lekse:** Innlæringsdelen i Kaares kokebok er laget for at flest mulig skal kunne følge den med minimal lærerveiledning. Den egner seg derfor godt som hjemmearbeid.
-- **Tidsbruk:** Et ukentlig tidsbruk på mellom 15 og 30 minutter (inkludert lekser) skal gi god margin til å komme gjennom kapitlene i god tid før standpunkt/eksamen til våren, både for Vg1, Vg2 og Vg3. Vi anbefaler en jevnlig ukentlig dose, framfor sporadiske heldagsøkter.
-- **Nytt stoff:** Når elevene begynner med et nytt kapittel i Kaares kokebok, anbefaler vi at dette skjer i klasserommet. Da får vi muligheter til å rydde opp i typiske feil eller misforståelser tidlig, i stedet for at elevene sitter hjemme og ikke kommer noen vei. Det er opp til læreren om han ønsker å gjennomgå noe felles, eller bare be elevene gjøre for eksempel 2.1-2.3 og deretter gå rundt og hjelpe elevene.
+- **Tidsbruk:** Et ukentlig tidsbruk på mellom 10 og 30 minutter (inkludert lekser) skal gi god margin til å komme gjennom kapitlene i god tid før standpunkt/eksamen til våren, både for Vg1, Vg2 og Vg3. Vi anbefaler en jevnlig ukentlig dose, framfor sporadiske heldagsøkter.
+- **Nytt stoff:** Når elevene begynner med et nytt kapittel i Kaares kokebok, anbefaler vi at dette skjer i klasserommet. Da får vi muligheten til å rydde opp i typiske feil eller misforståelser tidlig, i stedet for at elevene sitter hjemme og ikke kommer noen vei. Det er opp til læreren om han ønsker å gjennomgå noe felles, eller bare be elevene gjøre for eksempel 2.1-2.3 og deretter gå rundt og hjelpe dem.
 
 *Tips*: Det er som regel noen elever som utmerker seg i programmering, og lett tar til seg nytt stoff. Disse kan utfordres til å være hjelpelærere, og forsøke å få andre til å forstå programmer eller konsepter som kan være vanskelige.
 
@@ -100,4 +100,16 @@ Løsningene kan kopieres med ett trykk. Bruksområdene til løsningene er eksemp
 - **Prøveoppgave**: Bruke løsningen til en prøve. F.eks. be elevene forklare hva koden gjør. Eller du kan fjerne deler av koden, og be elevene fylle tomrommene med korrekt kode. Dersom elevene allerede har gjort oppgaven, er det naturlig å endre noe på koden før det gis som en prøveoppgave.
 - **Hjelp**: Elevene står fast og trenger å se en løsning. Etter at elevene har jobbet med å forstå løsningen, bør de utfordres til å gjøre oppgaven på nytt uten å se på løsningen.
 
+## Oppgavetyper og fagdidaktikk
+Se kapitlet "Til læreren" bakerst i Kaares kokebok.
+
+## Andre spørsmål
+Ta gjerne kontakt med oss på
+- [kontakt@jdforlag.no](mailto:kontakt@jdforlag.no)
+
+Vi svarer ganske raskt.
+
+---
+*Jørgensen & Dahl forlag
+Org.nr 929 632 230 MVA*
 
