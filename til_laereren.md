@@ -110,6 +110,7 @@ Ta gjerne kontakt med oss på
 Vi svarer ganske raskt.
 
 ---
-*Jørgensen & Dahl forlag
-Org.nr 929 632 230 MVA*
+*Jørgensen & Dahl forlag*
+
+*Org.nr 929 632 230 MVA*
 
